@@ -1,0 +1,43 @@
+jsonp_callback_2({
+    "id": "74738636-4320-4a1a-8258-c6a95db26a9b_desktop_interstitial_default_checkbox",
+    "redirectBaseID": "74738636-4320-4a1a-8258-c6a95db26a9b_desktop_interstitial_redirect_base",
+    "redirectBase": "https://www.clicktripz.com/",
+    "userSearchHistory": [],
+    "isPseudoPopUnderRedirecting": false,
+    "isEdgeBroken": false,
+    "serverTimestamp": 1697808954,
+    "searchKey": "dc9294524f2e58e307c6d3e4be390795",
+    "recommendedDisplayMode": "tabbed",
+    "auctionType": 100,
+    "providers": [
+        {
+            "name": "Trivago",
+            "smallThumb": "https://images.clicktripz.com/156_15517253392846.png",
+            "mediumThumb": "https://images.clicktripz.com/156_15347988856838.png",
+            "smallAltThumb": "https://images.clicktripz.com/156_15258946685559.png",
+            "checked": true,
+            "hidden": false,
+            "id": "74738636-4320-4a1a-8258-c6a95db26a9b_desktop_interstitial_provider_1",
+            "redirectID": "1050363061",
+            "windowName": "ct_window_17453",
+            "campaignID": "74738636-4320-4a1a-8258-c6a95db26a9b_desktop_interstitial_provider_1_17453",
+            "campaign": "17453",
+            "campaignType": "1",
+            "ifb": false
+        }
+    ],
+    "strategy": {
+        "publisherId": 3386,
+        "auction_id": "94242aac-9003-4956-aa4b-fa8efc79f55e",
+        "creative_strategy_id": 10,
+        "search_display_type": 1,
+        "searchParams": {
+            "type": 1,
+            "city": "Gandhinagar, Gujarat, India",
+            "checkInDate": "10/22/2023",
+            "checkOutDate": "10/23/2023",
+            "guests": 1,
+            "rooms": 1
+        }
+    }
+})

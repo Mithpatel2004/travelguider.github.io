@@ -1,0 +1,62 @@
+jsonp_callback_1({
+    "id": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_default_checkbox",
+    "redirectBaseID": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_redirect_base",
+    "redirectBase": "https://www.clicktripz.com/",
+    "userSearchHistory": [
+        {
+            "timestamp": 1697808952
+        }
+    ],
+    "isPseudoPopUnderRedirecting": false,
+    "isEdgeBroken": false,
+    "serverTimestamp": 1697808954,
+    "searchKey": "db19a045ca0b5187333db9d8183f27a4",
+    "recommendedDisplayMode": "tabbed",
+    "auctionType": 200,
+    "providers": [
+        {
+            "name": "Trivago",
+            "smallThumb": "https://images.clicktripz.com/156_15517253392846.png",
+            "mediumThumb": "https://images.clicktripz.com/156_15347988856838.png",
+            "smallAltThumb": "https://images.clicktripz.com/156_15258946685559.png",
+            "checked": false,
+            "hidden": false,
+            "id": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_1",
+            "redirectID": "7020150023",
+            "windowName": "ct_window_17455",
+            "campaignID": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_1_17455",
+            "campaign": "17455",
+            "campaignType": "1",
+            "ifb": false
+        },
+        {
+            "name": "Vio",
+            "smallThumb": "https://images.clicktripz.com/426_16686233812392.png",
+            "mediumThumb": "https://images.clicktripz.com/426_16686234362140.png",
+            "smallAltThumb": "https://images.clicktripz.com/426_16686234188968.png",
+            "checked": false,
+            "hidden": false,
+            "id": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_2",
+            "redirectID": "6050518032",
+            "windowName": "ct_window_21334",
+            "campaignID": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_2_21334",
+            "campaign": "21334",
+            "campaignType": "1",
+            "ifb": true
+        }
+    ],
+    "strategy": {
+        "publisherId": 3167,
+        "auction_id": "5aa441f6-4a35-4a65-b6b0-f201cad5c262",
+        "creative_strategy_id": 11,
+        "search_display_type": 2,
+        "searchParams": {
+            "type": 1,
+            "city": "Gandhinagar, Gujarat, India",
+            "checkInDate": "10/22/2023",
+            "checkOutDate": "10/23/2023",
+            "guests": 1,
+            "rooms": 1
+        }
+    }
+})
